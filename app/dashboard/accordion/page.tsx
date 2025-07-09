@@ -7,7 +7,7 @@ import {
 
 export default function AccordionPage() {
   return (
-    <div>
+    <div className="w-full h-full">
       <h2 className="text-2xl font-bold mb-4">Frequently Asked Questions</h2>
       <Accordion
         type="single"
