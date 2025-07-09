@@ -5,7 +5,7 @@ import {
   AccordionTrigger,
 } from "@/components/ui/accordion";
 
-export function AccordionDemo() {
+export default function AccordionPage() {
   return (
     <div>
       <h2 className="text-2xl font-bold mb-4">Frequently Asked Questions</h2>

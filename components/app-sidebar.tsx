@@ -41,7 +41,7 @@ const data = {
       items: [
         {
           title: "Dashboard",
-          url: "#",
+          url: "/dashboard",
           icon: RiSlowDownLine,
           isActive: true,
         },
@@ -79,6 +79,16 @@ const data = {
           title: "Archive",
           url: "#",
           icon: RiDatabase2Line,
+        },
+      ],
+    },
+    {
+      title: "Components",
+      items: [
+        {
+          title: "Accordion",
+          url: "/dashboard/accordion",
+          icon: RiCodeSSlashLine,
         },
       ],
     },
